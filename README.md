@@ -77,6 +77,10 @@ npm run dev
 "C:\Users\rosha\OneDrive\Desktop\uselessproj\ningal-allandakum-ai-main\images\Screenshot 2025-08-09 062627.png"
 "C:\Users\rosha\OneDrive\Desktop\uselessproj\ningal-allandakum-ai-main\images\Screenshot 2025-08-09 062639.png"
 
+
+**pls consider viewing images folder inside to view results**
+
+
 ## **Project Demo**  
 
 
