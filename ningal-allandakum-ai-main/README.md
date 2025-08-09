@@ -85,11 +85,4 @@ npm run dev
 - **Dan Mathews Vinu** Designed the UI (made it look less terrifying)  
 - **Roshan Joy:** Meme curator + snack recommendation expert  
 
----
-
-### **Final Thought**  
-
-Next time someone says *"Entha visham?"*, just show them **Vishannaaal Ningal Ningal Alandaakum**—because science says you’re not angry, you’re just hungry!  
-
-🚀 **Try it now & avoid unnecessary family drama!**  
 
